@@ -1,0 +1,8 @@
+Requisitos:
+- Code Blocks 20.03
+- C++
+- Biblioteca: iostream, stdlib.h 
+
+Como executar:
+- Compilar e executar o arquivo main.cpp
+- Inserir os valores de entrada
